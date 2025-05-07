@@ -10,8 +10,8 @@ use colored::Colorize;
 fn main() {
     let matches = Command::new("ventra")
         .version("0.1.0")
-        .author("Vantor Studios")
-        .about("« The Vantor Engine project and build manager »")
+        .author("Vantor Studios & Lukas Rennhofer")
+        .about(format!("╭────────────────────────────────────────────────────╮\n│ {} — The Vantor Engine Project & Build Manager │\n╰────────────────────────────────────────────────────╯", "Ventra".bold().bright_purple()))
         .after_help(format!("[📘] Tip: Visit {} for full documentation.", "https://vantor.net/".underline().bold()))
         .subcommand(Command::new("init")
             .about("Initialize a new Vantor project")
