@@ -1,4 +1,20 @@
-# Ventra
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/LukasRennhofer/Ventra">
+    <img src="page/branding/ventraLogo_wbg.png" alt="Logo" height="80">
+  </a>
+
+<h3 align="center">Ventra</h3>
+
+  <p align="center">
+    The Vantor Engine Build & Project Manager
+  </p>
+
+  <a href="https://github.com/LukasRennhofer/Vantor"><strong>Goto Vantor Engine »</strong></a>
+  <br />
+  <br />
+</div>
 
 ![License](https://img.shields.io/github/license/LukasRennhofer/Ventra)
 ![Version](https://img.shields.io/github/v/release/LukasRennhofer/Ventra)

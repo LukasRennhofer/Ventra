@@ -13,6 +13,10 @@ pub fn init_project(project_name: &str) {
     let target_path = Path::new(project_name).join("target");
     fs::create_dir_all(target_path).expect("[❌] Failed to create ./target/ directory");
 
+    // Create res (resource) directory
+    let resource_path = Path::new(project_name).join("resource");
+    fs::create_dir_all(resource_path).expect("[❌] Failed to create ./res/ directory");
+
     // Create main.cpp (basic template)
     let main_cpp_content = r#"#include <Vantor.h>
 
