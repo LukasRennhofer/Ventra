@@ -1,1 +1,0 @@
-D:\Vantor\Ventra\target\release\ventra.exe: D:\Vantor\Ventra\src\commands\build.rs D:\Vantor\Ventra\src\commands\docs.rs D:\Vantor\Ventra\src\commands\init.rs D:\Vantor\Ventra\src\commands\mod.rs D:\Vantor\Ventra\src\config\config.rs D:\Vantor\Ventra\src\config\mod.rs D:\Vantor\Ventra\src\main.rs D:\Vantor\Ventra\src\utils\mod.rs D:\Vantor\Ventra\src\utils\spinners.rs
